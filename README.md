@@ -6,7 +6,7 @@ SmartGit is a Git GUI client with support for GitHub, Bitbucket, GitLab and Azur
 https://www.smartgit.dev/
 
 ## Repository: https://github.com/ryuuzaki42/SmartGit_AppImage
-    SmartGit: 25.1.128
+    SmartGit: 26.1.036
 
 ---
 Based on: https://github.com/ecmu/smartgit.AppImage
